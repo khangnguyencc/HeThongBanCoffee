@@ -1,0 +1,215 @@
+C:\Users\OS\Desktop\PRO231\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\HeThongQuanLyCaPhe.exe.config
+C:\Users\OS\Desktop\PRO231\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\HeThongQuanLyCaPhe.exe
+C:\Users\OS\Desktop\PRO231\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\HeThongQuanLyCaPhe.pdb
+C:\Users\OS\Desktop\PRO231\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.csproj.AssemblyReference.cache
+C:\Users\OS\Desktop\PRO231\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.Properties.Resources.resources
+C:\Users\OS\Desktop\PRO231\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.TrangChu.resources
+C:\Users\OS\Desktop\PRO231\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.csproj.GenerateResource.cache
+C:\Users\OS\Desktop\PRO231\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.csproj.CoreCompileInputs.cache
+C:\Users\OS\Desktop\PRO231\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.exe
+C:\Users\OS\Desktop\PRO231\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.pdb
+C:\Users\OS\Desktop\PRO231\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.ChuongTrinhKhuyenMai.resources
+C:\Users\OS\Desktop\PRO231\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.QlyLoaiNLieu.resources
+C:\Users\OS\Desktop\PRO231\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.Qlynglieu.resources
+C:\Users\OS\Desktop\PRO231\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.DangNhap.resources
+D:\IT1701\Dự Án Tốt Nghiệp\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\HeThongQuanLyCaPhe.exe.config
+D:\IT1701\Dự Án Tốt Nghiệp\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\HeThongQuanLyCaPhe.exe
+D:\IT1701\Dự Án Tốt Nghiệp\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\HeThongQuanLyCaPhe.pdb
+D:\IT1701\Dự Án Tốt Nghiệp\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.csproj.AssemblyReference.cache
+D:\IT1701\Dự Án Tốt Nghiệp\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.csproj.SuggestedBindingRedirects.cache
+D:\IT1701\Dự Án Tốt Nghiệp\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.ChuongTrinhKhuyenMai.resources
+D:\IT1701\Dự Án Tốt Nghiệp\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.DangNhap.resources
+D:\IT1701\Dự Án Tốt Nghiệp\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.Properties.Resources.resources
+D:\IT1701\Dự Án Tốt Nghiệp\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.QlyLoaiNLieu.resources
+D:\IT1701\Dự Án Tốt Nghiệp\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.Qlynglieu.resources
+D:\IT1701\Dự Án Tốt Nghiệp\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.TrangChu.resources
+D:\IT1701\Dự Án Tốt Nghiệp\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.csproj.GenerateResource.cache
+D:\IT1701\Dự Án Tốt Nghiệp\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.csproj.CoreCompileInputs.cache
+D:\IT1701\Dự Án Tốt Nghiệp\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.exe
+D:\IT1701\Dự Án Tốt Nghiệp\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.pdb
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\HeThongQuanLyCaPhe.exe.config
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\HeThongQuanLyCaPhe.exe
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\HeThongQuanLyCaPhe.pdb
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.csproj.AssemblyReference.cache
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.csproj.SuggestedBindingRedirects.cache
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.ChuongTrinhKhuyenMai.resources
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.DangNhap.resources
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.Properties.Resources.resources
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.QlyLoaiNLieu.resources
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.Qlynglieu.resources
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.TrangChu.resources
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.csproj.GenerateResource.cache
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.csproj.CoreCompileInputs.cache
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.exe
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.pdb
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot2\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\HeThongQuanLyCaPhe.exe.config
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot2\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\HeThongQuanLyCaPhe.exe
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot2\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\HeThongQuanLyCaPhe.pdb
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot2\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.csproj.AssemblyReference.cache
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot2\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.csproj.SuggestedBindingRedirects.cache
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot2\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.ChuongTrinhKhuyenMai.resources
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot2\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.DangNhap.resources
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot2\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.Properties.Resources.resources
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot2\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.QlyLoaiNLieu.resources
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot2\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.Qlynglieu.resources
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot2\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.TrangChu.resources
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot2\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.csproj.GenerateResource.cache
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot2\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.csproj.CoreCompileInputs.cache
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot2\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.exe
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot2\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.pdb
+D:\IT1701\Dự Án Tốt Nghiệp\HoanThanhDot2\HoanThanhDot1\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.ChinhSuaChiTietDatBan.resources
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\HeThongQuanLyCaPhe.exe.config
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\HeThongQuanLyCaPhe.exe
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\HeThongQuanLyCaPhe.pdb
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.csproj.AssemblyReference.cache
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.ChinhSuaChiTietDatBan.resources
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.ChuongTrinhKhuyenMai.resources
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.DangNhap.resources
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.Properties.Resources.resources
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.QlyLoaiNLieu.resources
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.Qlynglieu.resources
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.TrangChu.resources
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.csproj.GenerateResource.cache
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.csproj.CoreCompileInputs.cache
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.exe
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.pdb
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.QuanLyLichLamViecNhanVien.resources
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\EntityFramework.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\EnvDTE.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\stdole.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\Microsoft.MSXML.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\EntityFramework.xml
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.RpHoaDon.resources
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.csproj.CopyComplete
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\rptHoaDon.rdlc
+C:\Users\OS\Desktop\PRO231\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.QLyLuongNvien.resources
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\rptHoaDon.rdlc
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\HeThongQuanLyCaPhe.exe.config
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\HeThongQuanLyCaPhe.exe
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\HeThongQuanLyCaPhe.pdb
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\EntityFramework.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\EnvDTE.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\stdole.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\Microsoft.MSXML.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\EntityFramework.xml
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.ChinhSuaChiTietDatBan.resources
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.ChuongTrinhKhuyenMai.resources
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.DangNhap.resources
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.Properties.Resources.resources
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.QlyLoaiNLieu.resources
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.QLyLuongNvien.resources
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.Qlynglieu.resources
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.QuanLyLichLamViecNhanVien.resources
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.RpHoaDon.resources
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.TrangChu.resources
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.csproj.CopyComplete
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.exe
+C:\Users\USER\Downloads\Thais02-04\File\File\HeThongQuanLyCaPhe\HeThongQuanLyCaPhe\obj\Debug\HeThongQuanLyCaPhe.pdb
